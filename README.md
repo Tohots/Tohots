@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tohots
-- I will create clash rule
+- Tohots 的 GitHub 仓库
+- 🙂🙂🙂🙂
 
 <!---
 Tohots/Tohots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
